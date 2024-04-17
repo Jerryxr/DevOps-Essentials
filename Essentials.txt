@@ -1,0 +1,9 @@
+This are some devops essential thingsGit and GitHub: Source code management (Version Control System).
+Jenkins: An automation server equipped with plugins for constructing CI/CD pipelines.
+Selenium: Automation testing.
+Docker: A platform for software containerization.
+Kubernetes: A tool for container orchestration.
+Puppet: Used for configuration management and deployment.
+Chef: Also employed for configuration management and deployment.
+Ansible: Another tool for configuration management and deployment.
+Nagios: Utilized for continuous monitoring.
