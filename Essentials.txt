@@ -7,3 +7,7 @@ Puppet: Used for configuration management and deployment.
 Chef: Also employed for configuration management and deployment.
 Ansible: Another tool for configuration management and deployment.
 Nagios: Utilized for continuous monitoring.
+
+There will be more things added in this document sooner;
+Stayy tuned for this update!
+
